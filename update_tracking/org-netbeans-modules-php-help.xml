@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.php.help">
+    <module_version install_time="1311882228785" last="true" origin="installer" specification_version="1.9.1">
+        <file crc="3707855441" name="config/Modules/org-netbeans-modules-php-help.xml"/>
+        <file crc="3099224753" name="modules/docs/org-netbeans-modules-php-help.jar"/>
+        <file crc="90844015" name="modules/org-netbeans-modules-php-help.jar"/>
+    </module_version>
+</module>

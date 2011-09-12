@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.php.refactoring">
+    <module_version install_time="1311884148100" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="2570953812" name="config/Modules/org-netbeans-modules-php-refactoring.xml"/>
+        <file crc="2593360266" name="modules/org-netbeans-modules-php-refactoring.jar"/>
+    </module_version>
+</module>

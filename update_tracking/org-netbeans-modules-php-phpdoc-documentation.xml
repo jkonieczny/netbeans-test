@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.php.phpdoc.documentation">
+    <module_version install_time="1311882230441" last="true" origin="installer" specification_version="0.3.1">
+        <file crc="1487672427" name="config/Modules/org-netbeans-modules-php-phpdoc-documentation.xml"/>
+        <file crc="3189369369" name="docs/phpdocdesc.zip"/>
+        <file crc="3152399304" name="modules/org-netbeans-modules-php-phpdoc-documentation.jar"/>
+    </module_version>
+</module>
